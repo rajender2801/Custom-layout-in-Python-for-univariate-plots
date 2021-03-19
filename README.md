@@ -12,7 +12,7 @@ add_plots(df, 2, 3, "Histogram distribution")
 
 ### it will create 2 figure windows in total and each window contains subplots of 6,4 in each window.
 
-The inputs the user has to provide are the 4
+The inputs the user has to provide are 4
 1. The data frame whose data is to be plotted
 2. Column-wise number of subplots
 3. Row-wise number of subplots
